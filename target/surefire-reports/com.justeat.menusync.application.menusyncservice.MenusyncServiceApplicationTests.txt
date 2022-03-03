@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.justeat.menusync.application.menusyncservice.MenusyncServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 180.601 s - in com.justeat.menusync.application.menusyncservice.MenusyncServiceApplicationTests

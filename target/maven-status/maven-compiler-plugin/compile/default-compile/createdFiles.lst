@@ -1,0 +1,8 @@
+com\justeat\menusync\service\MenuServiceImpl.class
+com\justeat\menusync\MenusyncServiceApplication.class
+com\justeat\menusync\config\SwaggerConfiguration.class
+com\justeat\menusync\model\MenuDTO.class
+com\justeat\menusync\repository\MenuRepository.class
+com\justeat\menusync\service\MenuService.class
+com\justeat\menusync\api\controller\MenuController.class
+com\justeat\menusync\exception\MenuNotFoundException.class
